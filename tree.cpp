@@ -44,8 +44,6 @@ class FullBinaryTree {
           current_node = current_node->left;
         }
       }
-    }
-  }
 };
  
 int main() {
